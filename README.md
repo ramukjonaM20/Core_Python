@@ -2,7 +2,7 @@
 Hello Everyone, I am Manojkumar, In this Repository I shared my knowledge of codings in Python
 
 # Python Program using Google Colab
-![Python Colab GitHub](https://www.alura.com.br/artigos/assets/como-conectar-o-google-colaboratory-ao-github/logo-do-google-colaboratory-e-do-github.png)
+![Python Colab GitHub](https://www.alura.com.br/artigos/assets/como-conectar-o-google-colaboratory-ao-github/logo-do-google-colaboratory-e-do-github.png)(#programs)
 This repository contains a collection of basic Python programs that have been practiced using Google Colab notebooks. The programs cover a range of fundamental concepts in Python programming and serve as a learning resource for beginners and intermediate programmers. Each program is accompanied by a dedicated Colab notebook that provides explanations, code snippets, and interactive execution.
 
 ## Table of Contents
@@ -16,7 +16,6 @@ This repository contains a collection of basic Python programs that have been pr
    - [4. Loops](#4-loops)
    - [5. Functions](#5-functions)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
 
 ## Introduction
 
@@ -65,17 +64,6 @@ Google Colab is a free, cloud-based environment that allows you to write and exe
 2. Open the desired program's Colab notebook using Google Colab.
 3. Read through the explanations and code snippets.
 4. Execute the code cells to see the program in action and experiment with modifications.
-
-## Contributing
-
-Contributions to this repository are welcome! If you have additional Python programs or improvements to existing programs, feel free to create a pull request. Please ensure that your contributions adhere to the established coding standards and include clear documentation.
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-new-program`.
-3. Commit your changes: `git commit -m "Add new program: Program Name"`.
-4. Push to the branch: `git push origin feature-new-program`.
-5. Open a pull request describing your changes.
-
 ---
 
 Happy coding!
