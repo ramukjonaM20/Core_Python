@@ -15,7 +15,6 @@ This repository contains a collection of basic Python programs that have been pr
    - [3. Conditional Statements](#3-conditional-statements)
    - [4. Loops](#4-loops)
    - [5. Functions](#5-functions)
-4. [Usage](#usage)
 
 ## Introduction
 
@@ -57,15 +56,8 @@ Google Colab is a free, cloud-based environment that allows you to write and exe
 
 - **Description**: Understand the concept of functions and how to define and call your own functions.
 - **Key Concepts**: Functions, parameters, return statements.
-
-## Usage
-
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/python-colab-practice.git`.
-2. Open the desired program's Colab notebook using Google Colab.
-3. Read through the explanations and code snippets.
-4. Execute the code cells to see the program in action and experiment with modifications.
 ---
 
 Happy coding!
 
-For more resources and tutorials, visit [Colab](https://colab.research.google.com/drive/1EBUMWuLbEWfo-x4fFMRg8O8NDBK1w1lh?usp=sharing).
+For more resources and tutorials, visit [Colab](https://colab.research.google.com/).
