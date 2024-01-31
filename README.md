@@ -12,9 +12,10 @@ This repository contains a collection of basic Python programs that have been pr
 3. [Programs](#programs)
    - [1. Hello, World!](#1-hello-world)
    - [2. Variables and Data Types](#2-variables-and-data-types)
-   - [3. Conditional Statements](#3-conditional-statements)
-   - [4. Loops](#4-loops)
-   - [5. Functions](#5-functions)
+   - [3. Data Structure](#3-data-structure)
+   - [4. Conditional Statements](#3-conditional-statements)
+   - [5. Loops](#4-loops)
+   - [6. Functions](#5-functions)
 
 ## Introduction
 
@@ -42,17 +43,21 @@ Google Colab is a free, cloud-based environment that allows you to write and exe
 - **Description**: Learn how to declare variables and work with different data types, including integers, floats, strings, and booleans.
 - **Key Concepts**: Variables, data types, type conversion.
 
-### 3. Conditional Statements
+### 3. Data Structure
+
+- **Description**: Data Structure are a way of organizing and storing data so that they can be accessed and work with efficiently
+- **Key Concepts**: List, Tuples, Dictionary, Set.
+### 4. Conditional Statements
 
 - **Description**: Explore the usage of if statements to create conditional behavior in your programs.
 - **Key Concepts**: If statements, comparison operators, logical operators.
 
-### 4. Loops
+### 5. Loops
 
 - **Description**: Learn about the for loop and while loop constructs to automate repetitive tasks.
 - **Key Concepts**: For loops, while loops, iterations.
 
-### 5. Functions
+### 6. Functions
 
 - **Description**: Understand the concept of functions and how to define and call your own functions.
 - **Key Concepts**: Functions, parameters, return statements.
