@@ -65,4 +65,4 @@ Google Colab is a free, cloud-based environment that allows you to write and exe
 
 Happy coding!
 
-For Hands on, visit [Colab](https://colab.research.google.com/).
+For Hands on, visit [Google Colab](https://colab.research.google.com/).
