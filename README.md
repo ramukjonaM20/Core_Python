@@ -2,7 +2,7 @@
 Hello Everyone, I am Manojkumar, In this Repository I shared my knowledge of codings in Python
 
 # Python Program using Google Colab
-![Python Colab GitHub](https://www.alura.com.br/artigos/assets/como-conectar-o-google-colaboratory-ao-github/logo-do-google-colaboratory-e-do-github.png)(#programs)
+[![Python Colab GitHub](https://www.alura.com.br/artigos/assets/como-conectar-o-google-colaboratory-ao-github/logo-do-google-colaboratory-e-do-github.png)](#programs)
 This repository contains a collection of basic Python programs that have been practiced using Google Colab notebooks. The programs cover a range of fundamental concepts in Python programming and serve as a learning resource for beginners and intermediate programmers. Each program is accompanied by a dedicated Colab notebook that provides explanations, code snippets, and interactive execution.
 
 ## Table of Contents
