@@ -14,9 +14,9 @@ Hello Everyone, I am Manojkumar, In this Repository I shared my knowledge of cod
    - [1. Hello, World!](#1-hello-world)
    - [2. Variables and Data Types](#2-variables-and-data-types)
    - [3. Data Structure](#3-data-structure)
-   - [4. Conditional Statements](#3-conditional-statements)
-   - [5. Loops](#4-loops)
-   - [6. Functions](#5-functions)
+   - [4. Conditional Statements](#4-conditional-statements)
+   - [5. Loops](#5-loops)
+   - [6. Functions](#6-functions)
 
 ## Introduction
 
